@@ -1,0 +1,14 @@
+
+
+.card-text{
+    display: none;
+
+}
+
+
+h5.card-title:hover, div.card-body>p:hover{ 
+    cursor:pointer; 
+    color:blue;
+
+}
+
